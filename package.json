@@ -1,0 +1,22 @@
+{
+    "name": "discordbot",
+    "version": "1.0.0",
+    "description": "Badass Chatbot",
+    "main": "bot.js",
+    "author": "Austin Jones",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "discord.js": "^12.5.3",
+        "dotenv": "^8.2.0",
+        "ffmpeg-static": "^4.3.0",
+        "mysql": "^2.18.1",
+        "node-fetch": "^2.6.1",
+        "opusscript": "0.0.8",
+        "winston": "^3.3.3",
+        "ytdl-core": "^4.5.0"
+    },
+    "scripts": {
+        "test": "test"
+    },
+    "license": "ISC"
+}
